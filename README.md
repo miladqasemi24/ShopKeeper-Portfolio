@@ -49,6 +49,19 @@ Screenshots of the application will be added here.
 ## 🎥 Demo
 
 A demonstration video will be available here.
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/home.png)
+
+### Products
+![Products](screenshots/products.png)
+
+### Sales
+![Sales](screenshots/sales.png)
+
+### Reports
+![Reports](screenshots/reports.png)
 
 ## 🔒 License & Copyright
 
