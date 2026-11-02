@@ -49,7 +49,8 @@ A demonstration video will be available here.
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/home.png)
+<img src="screenshots/home.png" width="300" alt="Dashboard Screenshot">
+<!-- ![Dashboard](screenshots/home.png) -->
 
 ### Products
 ![Products](screenshots/product.png)
