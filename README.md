@@ -53,19 +53,24 @@ A demonstration video will be available here.
 <!-- ![Dashboard](screenshots/home.png) -->
 
 ### Products
-![Products](screenshots/product.png)
+<img src="screenshots/product.png" width="300" alt="Product Screenshot">
+<!-- ![Products](screenshots/product.png) -->
 
 ### Sales
-![Sales](screenshots/sales.png)
+<img src="screenshots/sales.png" width="300" alt="Sales Screenshot">
+<!-- ![Sales](screenshots/sales.png) -->
 
 ### Reports
-![Reports](screenshots/report.png)
+<img src="screenshots/report.png" width="300" alt="Report Screenshot">
+<!-- ![Reports](screenshots/report.png) -->
 
 ### Setting
-![Sales](screenshots/Setting.png)
+<img src="screenshots/setting.png" width="300" alt="Setting Screenshot">
+<!-- ![Sales](screenshots/Setting.png) -->
 
 ### NewSale
-![Sales](screenshots/NewSale.png)
+<img src="screenshots/NewSale.png" width="300" alt="NewSale Screenshot">
+<!-- ![Sales](screenshots/NewSale.png) -->
 ## 🔒 License & Copyright
 
 Copyright © 2026 Milad Qasemi.
