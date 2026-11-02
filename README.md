@@ -53,7 +53,7 @@ A demonstration video will be available here.
 <!-- ![Dashboard](screenshots/home.png) -->
 
 ### Products
-<img src="screenshots/product.png" width="300" alt="Product Screenshot">
+<img src="screenshots/Product.png" width="300" alt="Product Screenshot">
 <!-- ![Products](screenshots/product.png) -->
 
 ### Sales
@@ -65,7 +65,7 @@ A demonstration video will be available here.
 <!-- ![Reports](screenshots/report.png) -->
 
 ### Setting
-<img src="screenshots/setting.png" width="300" alt="Setting Screenshot">
+<img src="screenshots/Setting.png" width="300" alt="Setting Screenshot">
 <!-- ![Sales](screenshots/Setting.png) -->
 
 ### NewSale
